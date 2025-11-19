@@ -27,7 +27,7 @@ height="50"/>
 <img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png" width="80" height="50"/>
 </p>
 # Mis Estadísticas.
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=ATreCro&show_icons=true)
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=RaelNA&show_icons=true&theme=transparent)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ATreCro&layout=compact)
 ## Contacta conmigo.
