@@ -30,7 +30,7 @@ height="50"/>
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=RaelNA&show_icons=true)
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=RaelNA&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaelNA&layout=compact)
 ## Contacta conmigo.
 <p>LinkedIn: </p>
 Email: 
