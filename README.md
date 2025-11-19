@@ -36,6 +36,8 @@ Hoy mi objetivo es seguir creciendo como profesional, aportar mis conocimientos,
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaelNA&layout=compact)
 ## Contacta conmigo.
 <p>LinkedIn: https://www.linkedin.com/in/rael-nu%C3%B1ez-almech-a8b20ba1/ </p>
+
 Email: raelna@hotmail.es
+
 ## CV
-Notion: 
+Notion: https://www.notion.so/CV-Rael-N-ez-Almech-2b090228e3c8815c9861ce67537dfe78?source=copy_link
