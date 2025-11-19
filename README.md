@@ -26,12 +26,13 @@ height="50"/>
 height="50"/>
 <img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png" width="80" height="50"/>
 </p>
-# Mis Estadísticas.
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=RaelNA&show_icons=true)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ATreCro&layout=compact)
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RaelNA&show_icons=true&theme=transparent&include_all_commits=true&rank_icon=percentile)
+
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=RaelNA&layout=compact&theme=transparent)
 ## Contacta conmigo.
-<p>LinkedIn: https://www.linkedin.com/in/%C3%A1ngeles-trejo-croce-227434131/ </p>
-Email: angeles.trejo.croce@gmail.com
+<p>LinkedIn: </p>
+Email: 
 ## CV
-Notion: https://mixolydian-army-2a6.notion.site/CV-ngeles-Trejo-Croce-149d439a8c2480af8e2eeffae411924a
+Notion: 
