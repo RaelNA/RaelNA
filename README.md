@@ -1,5 +1,5 @@
 ![Ilustración_sin_título](https://github.com/user-attachments/assets/9e4e1fe9-bfc2-4572-9338-f8338c395819)
-# Hola, soy Ángeles Trejo
+# Hola, soy Rael 
 # Sobre mí.
 Soy Rael Núñez, desarrollador web en formación y apasionado de la tecnología. Actualmente curso el ciclo formativo de Desarrollo de Aplicaciones Web (DAW) y he realizado mis prácticas en SAGATECH, donde he trabajado como Project Manager Junior coordinando tareas, organizando entregables y tomando decisiones técnicas en proyectos reales, especialmente en el desarrollo del sistema interno de fichaje y CRM de la empresa.
 
