@@ -9,7 +9,7 @@ Mi recorrido empezó mucho antes del DAW: siempre he sido autodidacta. Desde rep
 
 Hoy mi objetivo es seguir creciendo como profesional, aportar mis conocimientos, aprender de cada proyecto y ganarme un lugar sólido en un sector que me entusiasma y en el que quiero seguir desarrollándome tanto a nivel técnico como personal.
 # Lenguajes y programas.
-<img src=https://iconos8.es/icon/108784/javascript>
+[<img src=https://iconos8.es/icon/108784/javascript>](https://es.wikipedia.org/wiki/JavaScript)
 ## 📊 Estadísticas de GitHub
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=RaelNA&show_icons=true)
