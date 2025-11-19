@@ -1,4 +1,5 @@
-![Ilustración_sin_título](https://github.com/user-attachments/assets/9e4e1fe9-bfc2-4572-9338-f8338c395819)
+<img width="393" height="261" alt="image" src="https://github.com/user-attachments/assets/5673adb5-b268-4c80-884b-f521f9cfab60" />
+
 # Hola, soy Rael 
 # Sobre mí.
 Soy Rael Núñez, desarrollador web en formación y apasionado de la tecnología. Actualmente curso el ciclo formativo de Desarrollo de Aplicaciones Web (DAW) y he realizado mis prácticas en SAGATECH, donde he trabajado como Project Manager Junior coordinando tareas, organizando entregables y tomando decisiones técnicas en proyectos reales, especialmente en el desarrollo del sistema interno de fichaje y CRM de la empresa.
@@ -34,7 +35,7 @@ Hoy mi objetivo es seguir creciendo como profesional, aportar mis conocimientos,
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaelNA&layout=compact)
 ## Contacta conmigo.
-<p>LinkedIn: </p>
-Email: 
+<p>LinkedIn: https://www.linkedin.com/in/rael-nu%C3%B1ez-almech-a8b20ba1/ </p>
+Email: raelna@hotmail.es
 ## CV
 Notion: 
