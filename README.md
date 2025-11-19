@@ -28,7 +28,7 @@ height="50"/>
 </p>
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=RaelNA&show_icons=true&theme=transparent&include_all_commits=true&rank_icon=percentile)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=RaelNA&show_icons=true&include_all_commits=true&theme=tokyonight&hide=issues)
 
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=RaelNA&layout=compact&theme=transparent)
 ## Contacta conmigo.
