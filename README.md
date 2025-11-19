@@ -9,40 +9,24 @@ Mi recorrido empezó mucho antes del DAW: siempre he sido autodidacta. Desde rep
 
 Hoy mi objetivo es seguir creciendo como profesional, aportar mis conocimientos, aprender de cada proyecto y ganarme un lugar sólido en un sector que me entusiasma y en el que quiero seguir desarrollándome tanto a nivel técnico como personal.
 # Lenguajes y programas.
+## 🧩 Lenguajes y Tecnologías
 <p align="left">
-
-  <!-- HTML / CSS / JS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-
-  <!-- PHP -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"/>
-
-  <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
-
-  <!-- phpMyAdmin (no existe en devicon, uso alternativa oficial conocida) -->
-  <img src="https://www.phpmyadmin.net/static/images/logo.png" width="50" height="50"/>
-
-  <!-- Astro -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="50" height="50"/>
+</p>
 
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-
-  <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
-
-  <!-- VSCode -->
+## 🛠️ Programas y Herramientas
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
-
-  <!-- Eclipse -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+  <img src="https://www.phpmyadmin.net/static/images/logo.png" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50" height="50"/>
-
-  <!-- NetBeans (tampoco está en devicon: versión SVG del proyecto Apache NetBeans) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="50" height="50"/>
-
 </p>
 ## 📊 Estadísticas de GitHub
 
